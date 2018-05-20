@@ -1,4 +1,4 @@
-# Adventure Builder [![Build Status](https://travis-ci.com/tecnico-softeng/prototype-2018.svg?token=fJ1UzWxWjpuNcHWPhqjT&branch=master)](https://travis-ci.com/tecnico-softeng/prototype-2018) [![codecov](https://codecov.io/gh/tecnico-softeng/prototype-2018/branch/master/graph/badge.svg?token=OPjXGqoNEm)](https://codecov.io/gh/tecnico-softeng/prototype-2018)
+﻿# Adventure Builder [![Build Status](https://travis-ci.com/tecnico-softeng/prototype-2018.svg?token=fJ1UzWxWjpuNcHWPhqjT&branch=master)](https://travis-ci.com/tecnico-softeng/prototype-2018) [![codecov](https://codecov.io/gh/tecnico-softeng/prototype-2018/branch/master/graph/badge.svg?token=OPjXGqoNEm)](https://codecov.io/gh/tecnico-softeng/prototype-2018)
 
 
 To run tests execute: mvn clean install
@@ -6,17 +6,18 @@ To run tests execute: mvn clean install
 To see the coverage reports, go to <module name>/target/site/jacoco/index.html.
 
 
-|   Number   |          Name           |            Email        |   GitHub Username  | Group |
-| ---------- | ----------------------- | ----------------------- | -------------------| ----- |
-|            |                         |                         |                    |   1   |
-|            |                         |                         |                    |   1   |
-|            |                         |                         |                    |   1   |
-|            |                         |                         |                    |   2   |
-|            |                         |                         |                    |   2   |
-|            |                         |                         |                    |   2   |
+|   Number   |          Name           |                       Email                      |  Name GitHUb   | Grupo |
+| ---------- | ----------------------- | ------------------------------------------------ | -------------- | ----- | 
+|  83446     |  Diogo Lopes Vaz        | diogo.vaz@tecnico.ulisboa.pt                     | diogolvaz      |   1   |
+|  83507     |  Marcelo Regra Silva    | marcelo.filipe.regra.da.silva@tecnico.ulisboa.pt | RegSilverz     |   2   |
+|  83472     |  Guilherme Nogueira     | guilherme.ramadas.nogueira@tecnico.ulisboa.pt    | Goldspy        |   3   |
+|  83420     |  Alexandra Figueiredo   | alexandra.figueiredo@tecnico.ulisboa.pt          | asgcfigueiredo |   3   |
+|  83443     |  Denis Voicu            | dennydenii@gmail.com                             | Smeurfy        |   2   | 
+|  83520     |  Mariana Loureiro       | mfc.loureiro@sapo.pt                             | marianafcl     |   1   | 
 
-- **Group 1:**
-- **Group 2:**
+- **Group 1:** 100Writes
+- **Group 2:** 100Reads
+- **Group 3:** 30Writes
 
 ### Infrastructure
 
